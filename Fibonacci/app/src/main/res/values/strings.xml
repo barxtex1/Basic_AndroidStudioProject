@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fibonacci</string>
+    <string name="ann_text">2</string>
+    <string name="a0_text">1</string>
+    <string name="a1_text">1</string>
+    <string name="count_up_text"><![CDATA[-->]]></string>
+    <string name="count_down"><![CDATA[<--]]></string>
+    <string name="a0_string_text">a0:</string>
+    <string name="a1_string_text">a1:</string>
+    <string name="ann_string_text">ann:</string>
+</resources>
